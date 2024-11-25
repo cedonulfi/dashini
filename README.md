@@ -2,6 +2,8 @@
 
 **Dashini** is a simple, lightweight, and responsive HTML/CSS dashboard template. It includes templates for a dashboard, login, and signup pages, designed for easy use and quick customization. This template is perfect for both learning front-end development and building small projects.
 
+![Dashini Dashboard Screenshot](Dashini.png)
+
 ## Technologies Used
 - **HTML5**
 - **CSS3**
